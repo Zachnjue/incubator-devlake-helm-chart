@@ -144,7 +144,7 @@ mysql:
 
 # dependency chart values
 grafana:
-  enabled: true
+  enabled: false
   #if grafana enabled is false, then external url should be provided
   external:
     url: ""
